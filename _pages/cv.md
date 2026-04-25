@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
 ======
 ### BSc Games Software Engineering, Bournemouth University, 2025
   * Achieved grade 2:1
@@ -17,7 +17,7 @@ redirect_from:
 ### T-Level Digital Production, Design and Development, Strode College, 2022
   * Achieved grade Merit (BBB)
 
-## Work experience
+Work experience
 ======
 ### Machine Learning Engineer @ Freelancer, 2025 - Present
   * Freelancer at a business, where I designed and implemented multi-agent systems using Microsoft Autogen
@@ -40,7 +40,7 @@ redirect_from:
   * Facilitated constructive conversations regarding how and what they learn will be the building blocks for the coming years.
   * Supported their transitition to university life and helped to teach them to manage their time.
   
-## Technical Skills
+Technical Skills
 ======
 * Source Control using Git
 * Agile Project Management
